@@ -3,5 +3,7 @@
   "isRoleplayPremium": false,
   "dailyLimits": 5,
   "initialLimit": 20,
-  "topicRST": " "
+  "topicRST": " test1 ",
+  "topicForGifts": " test2 ",
+  "topicRoleplay": " test3 "
 }
