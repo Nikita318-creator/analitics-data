@@ -1,6 +1,6 @@
 {
   "isMode": false,
-  "isRoleplayPremium": true,
+  "isRoleplayPremium": false,
   "dailyLimits": 5,
   "initialLimit": 20,
   "topicRST": "  "
