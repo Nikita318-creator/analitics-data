@@ -1,1 +1,9 @@
-
+{
+  "isMode": true,
+  "isRoleplayPremium": false,
+  "dailyLimits": 5,
+  "initialLimit": 10,
+  "topicRST": " ",
+  "topicForGifts": "  ",
+  "topicRoleplay": "  "
+}
