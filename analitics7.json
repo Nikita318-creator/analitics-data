@@ -2,7 +2,7 @@
   "isMode": true,
   "isRoleplayPremium": false,
   "dailyLimits": 5,
-  "initialLimit": 10,
+  "initialLimit": 20,
   "topicRST": " ",
   "topicForGifts": "  ",
   "topicRoleplay": "  "
