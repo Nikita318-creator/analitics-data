@@ -1,10 +1,39 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Universal Link Test Page</title>
+    <title>Chat App</title>
+    <script>
+        // Функция для перенаправления
+        function redirectToAppStore() {
+            var appStoreLink = 'https://apps.apple.com/app/id6748720543';
+            window.location.replace(appStoreLink);
+        }
+
+        // Запуск Universal Link и проверка перенаправления
+        window.onload = function() {
+            // Запускаем таймер, который сработает, если приложение не откроется
+            // (например, если оно не установлено)
+            var timeout = setTimeout(function() {
+                redirectToAppStore();
+            }, 2500); // 2.5 секунды
+
+            // Открываем Universal Link. Если приложение установлено, оно перехватит этот URL.
+            // Если нет, браузер продолжит загрузку текущей страницы.
+            window.location.href = window.location.href;
+
+            // Этот код проверяет, перешло ли управление приложению.
+            // Это немного сложный трюк, основанный на том, как работают iOS
+            // и Safari. Если приложение открывается, код ниже не выполнится.
+            document.addEventListener('visibilitychange', function() {
+                if (document.visibilityState === 'hidden') {
+                    clearTimeout(timeout);
+                }
+            });
+        };
+    </script>
 </head>
 <body>
-    <h1>Universal Link Test Page</h1>
-    <p>This page exists to make the Universal Link work. If you're using an iPhone with the app installed, this page should not be shown.</p>
+    <h1>Загрузка...</h1>
+    <p>Если приложение не откроется автоматически, вы будете перенаправлены в App Store.</p>
 </body>
 </html>
