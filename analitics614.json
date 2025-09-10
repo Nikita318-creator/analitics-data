@@ -3,7 +3,7 @@
   "isRoleplayPremium": false,
   "dailyLimits": 5,
   "initialLimit": 10,
-  "onlyPremiumApiCount": 1,
+  "onlyPremiumApiCount": 2,
   "topicRST": "",
   "topicForGifts": "",
   "topicRoleplay": "",
