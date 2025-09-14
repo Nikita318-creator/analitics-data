@@ -1,6 +1,6 @@
 {
   "isMode": true,
-  "dailyLimits": 5,
+  "dailyLimits": 3,
   "initialLimit": 10,
   "onlyPremiumApiCount": 4,
   "topicRST": "",
