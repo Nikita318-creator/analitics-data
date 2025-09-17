@@ -1,6 +1,7 @@
 {
   "isMode": false,
   "isTestB": true,
+  "needWait24h": true,
   "dailyLimits": 3,
   "initialLimit": 10,
   "onlyPremiumApiCount": 4,
