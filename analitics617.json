@@ -1,8 +1,8 @@
 {
-  "isMode": false,
-  "isTestB": true,
+  "isMode": true,
+  "isTestB": false,
   "needWait24h": false,
-  "isProSubs": true,
+  "isProSubs": false,
   "dailyLimits": 3,
   "initialLimit": 10,
   "onlyPremiumApiCount": 4,
