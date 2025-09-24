@@ -2,7 +2,7 @@
   "isMode": true,
   "isTestB": false,
   "needWait24h": false,
-  "isProSubs": false,
+  "isProSubs": true,
   "dailyLimits": 3,
   "initialLimit": 10,
   "onlyPremiumApiCount": 4,
