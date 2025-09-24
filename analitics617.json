@@ -1,1 +1,13 @@
-
+{
+  "isMode": false,
+  "isTestB": true,
+  "needWait24h": false,
+  "isProSubs": true,
+  "dailyLimits": 3,
+  "initialLimit": 10,
+  "onlyPremiumApiCount": 4,
+  "topicRST": "",
+  "topicForGifts": "",
+  "topicRoleplay": "",
+  "messageFromDeveloper": ""
+}
