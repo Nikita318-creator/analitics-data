@@ -1,7 +1,7 @@
 {
   "isMode": false,
-  "isTestB": false,
-  "needWait24h": true,
+  "isTestB": true,
+  "needWait24h": false,
   "isProSubs": true,
   "dailyLimits": 3,
   "initialLimit": 10,
