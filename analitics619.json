@@ -4,6 +4,7 @@
   "needWait24h": true,
   "isProSubs": true,
   "needAlwaysProSubs": true,
+  "needUse25Gemini": false,
   "dailyLimits": 3,
   "initialLimit": 10,
   "onlyPremiumApiCount": 6,
