@@ -5,6 +5,7 @@
   "isProSubs": true,
   "needAlwaysProSubs": true,
   "needUse25Gemini": false,
+  "needResetData": false,
   "dailyLimits": 3,
   "initialLimit": 10,
   "onlyPremiumApiCount": 6,
