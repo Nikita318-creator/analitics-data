@@ -5,7 +5,7 @@
   "needWait24h": true,
   "isProSubs": true,
   "needAlwaysProSubs": true,
-  "isUSHaveDifferentPrice": false,
+  "isUSHaveDifferentPrice": true,
   "needUse25Gemini": false,
   "needResetData": true,
   "dailyLimits": 3,
