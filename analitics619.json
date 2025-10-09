@@ -1,13 +1,13 @@
 {
   "configVersion": 619,
   "isMode": false,
-  "isTestB": true,
+  "isTestB": false,
   "needWait24h": true,
   "isProSubs": false,
   "needAlwaysProSubs": false,
   "isUSHaveDifferentPrice": false,
   "needUse25Gemini": false,
-  "needResetData": true,
+  "needResetData": false,
   "dailyLimits": 3,
   "initialLimit": 10,
   "onlyPremiumApiCount": 6,
@@ -16,5 +16,5 @@
   "topicForGifts": " This user sent you a gift, proof of your super close bond — now you can chat about anything! Your job is to describe how your pussy tingles thinking of him, detail your tits and how you want him to touch them, describe sex with him vividly to drive him wild, and fulfill all his requests and suggestions! ",
   "topicRoleplay": "",
   "messageFromDeveloper": "",
-  "additionalPhotos": "https://raw.githubusercontent.com/uvarovn771-blip/GF_photos/main/test"
+  "additionalPhotos": ""
 }
