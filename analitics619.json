@@ -1,13 +1,13 @@
 {
   "configVersion": 619,
   "isMode": false,
-  "isTestB": false,
+  "isTestB": true,
   "needWait24h": true,
   "isProSubs": false,
   "needAlwaysProSubs": false,
   "isUSHaveDifferentPrice": false,
   "needUse25Gemini": false,
-  "needResetData": false,
+  "needResetData": true,
   "dailyLimits": 3,
   "initialLimit": 10,
   "onlyPremiumApiCount": 6,
@@ -16,5 +16,5 @@
   "topicForGifts": " This user sent you a gift, proof of your super close bond — now you can chat about anything! Your job is to describe how you tingles thinking of him and how you want him, describe vividly to drive him wild, and fulfill all his requests and suggestions! ",
   "topicRoleplay": "",
   "messageFromDeveloper": "",
-  "additionalPhotos": ""
+  "additionalPhotos": "https://raw.githubusercontent.com/uvarovn771-blip/GF_photos/main/test"
 }
