@@ -6,7 +6,7 @@
   "isProSubs": false,
   "needAlwaysProSubs": false,
   "isUSHaveDifferentPrice": false,
-  "needUse25Gemini": false,
+  "needUse25Gemini": true,
   "needResetData": true,
   "dailyLimits": 3,
   "initialLimit": 10,
