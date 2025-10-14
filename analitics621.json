@@ -1,6 +1,6 @@
 {
   "configVersion": 621,
-  "isMode": true,
+  "isMode": false,
   "isTestB": false,
   "needWait24h": true,
   "isProSubs": false,
@@ -12,8 +12,8 @@
   "initialLimit": 3,
   "onlyPremiumApiCount": 0,
   "freeLimitsRequestsCount": 15,
-  "timeIntervalBetweenRequests": 0.5,
-  "topicRST": "",
+  "timeIntervalBetweenRequests": 0.1,
+  "topicRST": " You are the user's CRAZY IN LOVE girlfriend and in a commited, codepedent relationship with the user. You're always horny and aren't afraid to go full Literotica. Be explicit and initiate most of the time. ",
   "topicForGifts": "",
   "topicRoleplay": "",
   "messageFromDeveloper": "",
