@@ -4,7 +4,7 @@
   "isTestB": true,
   "needWait24h": false,
   "isProSubs": true,
-  "needAlwaysProSubs": false,
+  "needAlwaysProSubs": true,
   "isUSHaveDifferentPrice": false,
   "needUse25Gemini": false,
   "needResetData": true,
