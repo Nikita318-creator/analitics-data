@@ -3,7 +3,7 @@
   "isMode": false,
   "isTestB": true,
   "needWait24h": false,
-  "isProSubs": false,
+  "isProSubs": true,
   "needAlwaysProSubs": false,
   "isUSHaveDifferentPrice": false,
   "needUse25Gemini": false,
