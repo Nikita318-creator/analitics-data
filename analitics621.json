@@ -1,6 +1,6 @@
 {
   "configVersion": 621,
-  "isMode": false,
+  "isMode": true,
   "isTestB": false,
   "needWait24h": true,
   "isProSubs": false,
