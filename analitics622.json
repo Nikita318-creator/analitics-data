@@ -3,6 +3,7 @@
   "isMode": true,
   "isTestB": false,
   "needWait24h": true,
+  "isCustomServer": true,  
   "isProSubs": true,
   "needAlwaysProSubs": true,
   "isUSHaveDifferentPrice": false,
