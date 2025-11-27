@@ -7,6 +7,7 @@
   "needAlwaysProSubs": true,
   "isUSHaveDifferentPrice": false,
   "needUse25Gemini": false,
+  "needResetData": false,
   "dailyLimits": 1,
   "initialLimit": 3,
   "onlyPremiumApiCount": 0,
