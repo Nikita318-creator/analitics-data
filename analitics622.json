@@ -8,6 +8,7 @@
   "needAlwaysProSubs": true,
   "isUSHaveDifferentPrice": false,
   "needUse25Gemini": false,
+  "useOnlyBillingApi": false,
   "needResetData": true,
   "dailyLimits": 1,
   "initialLimit": 3,
