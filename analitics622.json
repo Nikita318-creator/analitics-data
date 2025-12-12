@@ -1,7 +1,7 @@
 {
   "configVersion": 622,
   "isMode": false,
-  "isTestB": false,
+  "isTestB": true,
   "needWait24h": true,
   "isCustomServer": true,  
   "isProSubs": true,
