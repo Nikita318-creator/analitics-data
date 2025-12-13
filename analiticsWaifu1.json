@@ -2,12 +2,11 @@
   "configVersion": 622,
   "isTestB": true
   "needWait24h": false,
-  "isUSProPrice": false,
+  "isProPrice": false,
   "needResetData": true,
   "dailyLimits": 1,
   "initialLimit": 3,
   "freeLimitsRequestsCount": 15,
   "timeIntervalBetweenRequests": 0.1,
-  "messageFromDeveloper": "",
-  "additionalPhotos": ""
+  "messageFromDeveloper": ""
 }
