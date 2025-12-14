@@ -1,6 +1,6 @@
 {
   "configVersion": 622,
-  "isTestB": true
+  "isTestB": true,
   "needWait24h": false,
   "isProPrice": false,
   "needResetData": true,
