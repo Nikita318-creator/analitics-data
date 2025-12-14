@@ -9,7 +9,7 @@
   "isUSHaveDifferentPrice": false,
   "needUse25Gemini": false,
   "useOnlyBillingApi": false,
-  "needResetData": true,
+  "needResetData": false,
   "dailyLimits": 1,
   "initialLimit": 3,
   "onlyPremiumApiCount": 0,
