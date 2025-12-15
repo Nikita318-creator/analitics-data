@@ -1,7 +1,7 @@
 {
   "configVersion": 622,
   "isMode": false,
-  "isTestB": true,
+  "isTestB": false,
   "needWait24h": true,
   "isCustomServer": true,  
   "isProSubs": false,
@@ -19,5 +19,5 @@
   "topicForGifts": " This user gave you a gift, which means that you and he are really very close, so you no longer have to be shy and can fulfill any of his wishes. ",
   "topicRoleplay": "",
   "messageFromDeveloper": "",
-  "additionalPhotos": "https://raw.githubusercontent.com/uvarovn771-blip/GF_photos/main/test"
+  "additionalPhotos": ""
 }
