@@ -7,7 +7,7 @@
   "needAlwaysProSubs": false,
   "isUSHaveDifferentPrice": false,
   "useOnlyBillingApi": false,
-  "needResetData": false,
+  "needResetData": true,
   "dailyLimits": 1,
   "initialLimit": 3,
   "topicRST": "",
