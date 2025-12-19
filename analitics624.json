@@ -1,1 +1,17 @@
-
+{
+  "configVersion": 624,
+  "isMode": true,
+  "isTestB": false,
+  "needWait24h": true,
+  "isProSubs": false,
+  "needAlwaysProSubs": false,
+  "isUSHaveDifferentPrice": false,
+  "useOnlyBillingApi": false,
+  "needResetData": true,
+  "dailyLimits": 10,
+  "initialLimit": 10,
+  "topicRST": "",
+  "topicForGifts": "",
+  "messageFromDeveloper": "",
+  "additionalPhotos": ""
+}
