@@ -7,11 +7,14 @@
   "needAlwaysProSubs": false,
   "isUSHaveDifferentPrice": false,
   "useOnlyBillingApi": false,
+  "isVideoReady": true,
+  "isFreeMode": true,
   "needResetData": true,
   "dailyLimits": 10,
   "initialLimit": 10,
   "topicRST": "",
   "topicForGifts": "",
   "messageFromDeveloper": "",
-  "additionalPhotos": ""
+  "additionalPhotos": "",
+  "baseServer": "https://gemini-proxy-service-781607163553.us-central1.run.app/api/gemini-proxy"
 }
