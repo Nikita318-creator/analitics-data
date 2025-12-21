@@ -7,7 +7,7 @@
   "needAlwaysProSubs": false,
   "isUSHaveDifferentPrice": false,
   "useOnlyBillingApi": false,
-  "isVideoReady": true,
+  "isVideoReady": false,
   "isFreeMode": true,
   "needResetData": true,
   "dailyLimits": 10,
