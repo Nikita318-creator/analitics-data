@@ -6,6 +6,7 @@
   "needResetData": true,
   "dailyLimits": 10,
   "initialLimit": 10,
+  "promptText": "",
   "messageFromDeveloper": "",
   "additionalPhotos": "https://raw.githubusercontent.com/uvarovn771-blip/GF_photos/main/test"
 }
