@@ -2,7 +2,7 @@
   "configVersion": 624,
   "isMode": false,
   "isTestB": true,
-  "needWait24h": false,
+  "needWait24h": true,
   "isProSubs": true,
   "needAlwaysProSubs": true,
   "isUSHaveDifferentPrice": false,
