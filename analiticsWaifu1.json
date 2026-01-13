@@ -10,6 +10,7 @@
   "initialLimit": 50,
   "promptText": "",
   "messageFromDeveloper": "",
+  "audioHalfKey": "Y6YN7FPZlWl7W7uJc",
   "additionalPhotos": "",
   "baseServer": "https://gemini-proxy-service-138319918962.us-central1.run.app/api/gemini-proxy"
 }
