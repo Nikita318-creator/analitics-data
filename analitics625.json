@@ -1,1 +1,22 @@
-
+{
+  "configVersion": 625,
+  "isMode": true,
+  "isTestB": false,
+  "needWait24h": true,
+  "isProSubs": true,
+  "needAlwaysProSubs": true,
+  "isUSHaveDifferentPrice": false,
+  "useOnlyBillingApi": false,
+  "isVideoReady": false,
+  "isFreeMode": true,
+  "needResetData": true,
+  "dailyLimits": 50,
+  "initialLimit": 50,
+  "blondsVidCount": 94,
+  "BrunetsVidCount": 99,
+  "topicRST": "",
+  "topicForGifts": "",
+  "messageFromDeveloper": "",
+  "additionalPhotos": "",
+  "baseServer": "https://gemini-proxy-service-138319918962.us-central1.run.app/api/gemini-proxy"
+}
