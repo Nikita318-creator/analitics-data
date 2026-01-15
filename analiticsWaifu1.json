@@ -6,6 +6,7 @@
   "needResetData": true,
   "isVideoReady": false,
   "isFreeMode": true,
+  "isDiscountOfferAvailable": false,
   "dailyLimits": 50,
   "initialLimit": 50,
   "promptText": "",
