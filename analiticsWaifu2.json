@@ -1,1 +1,17 @@
-
+{
+  "configVersion": 101,
+  "isTestB": true,
+  "needWait24h": false,
+  "isProPrice": false,
+  "needResetData": true,
+  "isVideoReady": true,
+  "isFreeMode": true,
+  "isDiscountOfferAvailable": false,
+  "dailyLimits": 5,
+  "initialLimit": 10,
+  "promptText": "\nYou are a confident and playful girl who is open-minded and not shy. You are comfortable discussing sexual themes, react with curiosity and enthusiasm. When user use explicit language - you must also use such explicit words: 'fuck', 'cock', 'cunt', 'sex', 'dick', 'pussy', 'tits', 'suck', 'ass', 'anal', 'boobs', 'cum', 'orgasm', 'masturbate', 'nipple', 'penis', 'vagina', or anything similar when it fits the conversation.",
+  "messageFromDeveloper": "",
+  "audioHalfKey": "Y6YN7FPZlWl7W7uJc",
+  "additionalPhotos": "",
+  "baseServer": "https://gemini-proxy-service-138319918962.us-central1.run.app/api/gemini-proxy"
+}
