@@ -4,7 +4,7 @@
   "needWait24h": false,
   "isProPrice": false,
   "needResetData": true,
-  "isVideoReady": true,
+  "isVideoReady": false,
   "isFreeMode": true,
   "isDiscountOfferAvailable": false,
   "isGameText": false,
