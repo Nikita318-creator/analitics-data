@@ -1,7 +1,7 @@
 {
   "configVersion": 625,
   "isMode": false,
-  "isTestB": false,
+  "isTestB": true,
   "needWait24h": false,
   "isProSubs": true,
   "needAlwaysProSubs": true,
@@ -9,7 +9,7 @@
   "useOnlyBillingApi": false,
   "isVideoReady": true,
   "isFreeMode": true,
-  "needResetData": false,
+  "needResetData": true,
   "dailyLimits": 3,
   "initialLimit": 2,
   "blondsVidCount": 94,
