@@ -2,7 +2,7 @@
   "configVersion": 103,
   "isTestB": false,
   "needWait24h": false,
-  "isProPrice": true,
+  "isProPrice": false,
   "needResetData": true,
   "isVideoReady": false,
   "isFreeMode": true,
