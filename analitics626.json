@@ -9,7 +9,7 @@
   "useOnlyBillingApi": false,
   "isVideoReady": false,
   "isFreeMode": true,
-  "needResetData": true,
+  "needResetData": false,
   "dailyLimits": 2,
   "initialLimit": 3,
   "blondsVidCount": 94,
