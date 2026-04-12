@@ -9,6 +9,7 @@
   "useOnlyBillingApi": false,
   "isVideoReady": false,
   "isFreeMode": true,
+  "isMoodOn": true,
   "needResetData": true,
   "dailyLimits": 2,
   "initialLimit": 3,
