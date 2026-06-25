@@ -8,6 +8,7 @@
   "isFreeMode": false,
   "isDiscountOfferAvailable": false,
   "isGameText": false,
+  "isMemoryAvailable": false,
   "dailyLimits": 5,
   "initialLimit": 10,
   "promptText": "",
