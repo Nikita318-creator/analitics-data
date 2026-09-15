@@ -1,6 +1,6 @@
 {
   "configVersion": 628,
-  "isMode": false,
+  "isMode": true,
   "isTestB": true,
   "isRemotePhoto": true,
   "needWait24h": false,
