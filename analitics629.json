@@ -10,6 +10,7 @@
   "isVideoReady": true,
   "isFreeMode": true,
   "isMoodOn": true,
+  "needRequestReview": true,
   "needResetData": true,
   "dailyLimits": 2,
   "initialLimit": 3,
