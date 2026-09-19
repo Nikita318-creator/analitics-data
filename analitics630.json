@@ -11,6 +11,7 @@
   "isFreeMode": false,
   "isMoodOn": false,
   "needRequestReview": true,
+  "isYearSubActive": true,
   "needResetData": true,
   "dailyLimits": 2,
   "initialLimit": 3,
